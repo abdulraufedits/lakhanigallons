@@ -69,7 +69,7 @@ const janData = [
     },{
         date: "1 Jan 2024",
         count: 0
-    },
+    }
 ]
 const febData = [
     {
@@ -292,80 +292,101 @@ const aprData = [
 ]
 const mayData = [
     {
-        date: "1 Jan 2024",
+        date: "1 May 2024",
         count: 0
     },
     {
-        date: "1 Jan 2024",
+        date: "2 May 2024",
         count: 0
-    },{
-        date: "1 Jan 2024",
+    }, {
+        date: "3 May 2024",
+        count: 3
+    }, {
+        date: "4 May 2024",
         count: 0
-    },{
-        date: "1 Jan 2024",
+    }, {
+        date: "5 May 2024",
         count: 0
-    },{
-        date: "1 Jan 2024",
+    }, {
+        date: "6 May 2024",
         count: 0
-    },{
-        date: "1 Jan 2024",
+    }, {
+        date: "7 May 2024",
+        count: 4
+    }, {
+        date: "8 May 2024",
         count: 0
-    },{
-        date: "1 Jan 2024",
+    }, {
+        date: "9 May 2024",
         count: 0
-    },{
-        date: "1 Jan 2024",
+    }, {
+        date: "10 May 2024",
+        count: 4
+    }, {
+        date: "11 May 2024",
         count: 0
-    },{
-        date: "1 Jan 2024",
+    }, {
+        date: "12 May 2024",
         count: 0
-    },{
-        date: "1 Jan 2024",
+    }, {
+        date: "13 May 2024",
         count: 0
-    },{
-        date: "1 Jan 2024",
+    }, {
+        date: "14 May 2024",
+        count: 4
+    }, {
+        date: "15 May 2024",
         count: 0
-    },{
-        date: "1 Jan 2024",
+    }, {
+        date: "16 May 2024",
         count: 0
-    },{
-        date: "1 Jan 2024",
+    }, {
+        date: "17 May 2024",
+        count: 4
+    }, {
+        date: "18 May 2024",
         count: 0
-    },{
-        date: "1 Jan 2024",
+    }, {
+        date: "19 May 2024",
         count: 0
-    },{
-        date: "1 Jan 2024",
+    }, {
+        date: "20 May 2024",
+        count: 4
+    }, {
+        date: "21 May 2024",
         count: 0
-    },{
-        date: "1 Jan 2024",
+    }, {
+        date: "22 May 2024",
         count: 0
-    },{
-        date: "1 Jan 2024",
+    }, {
+        date: "23 May 2024",
         count: 0
-    },{
-        date: "1 Jan 2024",
+    }, {
+        date: "24 May 2024",
+        count: 4
+    }, {
+        date: "25 May 2024",
         count: 0
-    },{
-        date: "1 Jan 2024",
+    }, {
+        date: "26 May 2024",
+        count: 4
+    }, {
+        date: "27 May 2024",
         count: 0
-    },{
-        date: "1 Jan 2024",
+    }, {
+        date: "28 May 2024",
         count: 0
-    },{
-        date: "1 Jan 2024",
+    }, {
+        date: "29 May 2024",
         count: 0
-    },{
-        date: "1 Jan 2024",
-        count: 0
-    },{
-        date: "1 Jan 2024",
+    }, {
+        date: "30 May 2024",
         count: 0
     },
 ]
 const junData = [
     {
-        date: "1 Jan 2024",
+        date: "1 June 2024",
         count: 0
     },
     {
@@ -875,77 +896,142 @@ const decData = [
     },
 ]
 
-// let sum = 0;
-// function sumOfGallons(month){
-//     monthlySummary.data.forEach(d => {
-//         sum += d.count;
-//     })
-//     console.log(month);
-//     return sum;
-// }
-
-const monthlySummary = [
+let sum = 0;
+let monthlySummary = new Array();
+monthlySummary = [
     {
         month: "January",
-        counts: 0,
+        counts: (function(){
+            sum = 0;
+            janData.forEach(d =>{
+                sum += d.count;
+            })
+            return sum;
+        })(),
         data: [...janData]
     },
     {
         month: "February",
-        counts: 0,
+        counts: (function(){
+            sum = 0;
+            febData.forEach(d =>{
+                sum += d.count;
+            })
+            return sum;
+        })(),
         data: [...febData]
     },
     {
         month: "March",
-        counts: 0,
-        data: [...febData]
+        counts: (function(){
+            sum = 0;
+            marData.forEach(d =>{
+                sum += d.count;
+            })
+            return sum;
+        })(),
+        data: [...marData]
     },
     {
         month: "April",
-        counts: 0,
-        data: [...febData]
+        counts: (function(){
+            sum = 0;
+            aprData.forEach(d =>{
+                sum += d.count;
+            })
+            return sum;
+        })(),
+        data: [...aprData]
     },
     {
         month: "May",
-        counts: 0,
-        data: [...febData]
+        counts: (function(){
+            sum = 0;
+            mayData.forEach(d =>{
+                sum += d.count;
+            })
+            return sum;
+        })(),
+        data: [...mayData]
     },
     {
         month: "June",
-        counts: 0,
-        data: [...febData]
+        counts: (function(){
+            sum = 0;
+            junData.forEach(d =>{
+                sum += d.count;
+            })
+            return sum;
+        })(),
+        data: [...junData]
     },
     {
         month: "July",
-        counts: 0,
-        data: [...febData]
+        counts: (function(){
+            sum = 0;
+            julData.forEach(d =>{
+                sum += d.count;
+            })
+            return sum;
+        })(),
+        data: [...julData]
     },
     {
         month: "August",
-        counts: 0,
-        data: [...febData]
+        counts: (function(){
+            sum = 0;
+            augData.forEach(d =>{
+                sum += d.count;
+            })
+            return sum;
+        })(),
+        data: [...augData]
     },
     {
         month: "September",
-        counts: 0,
-        data: [...febData]
+        counts: (function(){
+            sum = 0;
+            sepData.forEach(d =>{
+                sum += d.count;
+            })
+            return sum;
+        })(),
+        data: [...sepData]
     },
     {
         month: "October",
-        counts: 0,
-        data: [...febData]
+        counts: (function(){
+            sum = 0;
+            octData.forEach(d =>{
+                sum += d.count;
+            })
+            return sum;
+        })(),
+        data: [...octData]
     },
     {
         month: "November",
-        counts: 0,
-        data: [...febData]
+        counts: (function(){
+            sum = 0;
+            novData.forEach(d =>{
+                sum += d.count;
+            })
+            return sum;
+        })(),
+        data: [...novData]
     },
     {
         month: "December",
-        counts: 0,
-        data: [...febData]
+        counts: (function(){
+            sum = 0;
+            decData.forEach(d =>{
+                sum += d.count;
+            })
+            return sum;
+        })(),
+        data: [...decData]
     }
-]
+];
 
 
 
@@ -986,4 +1072,17 @@ accordinHeaders.forEach((head, i)  => {
             document.querySelectorAll('.box.' + monthlySummary[i].month).forEach(box => box.classList.remove('show'));
         }
     })
-})
+});
+
+// function sumOfGallons(selectedMonth){
+//     monthlySummary.forEach(m =>{
+//         if(m.month ==selectedMonth){
+//             m.data.forEach(d => {
+//                 sum += d.count;
+//             })
+            
+//         }
+        
+//     })
+//     return sum;
+// }
