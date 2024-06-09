@@ -390,25 +390,25 @@ const junData = [
         count: 0
     },
     {
-        date: "1 Jan 2024",
+        date: "2 Jun 2024",
         count: 0
     },{
-        date: "1 Jan 2024",
+        date: "3 Jun 2024",
         count: 0
     },{
-        date: "1 Jan 2024",
+        date: "4 Jun 2024",
+        count: 4
+    },{
+        date: "5 Jun 2024",
         count: 0
     },{
-        date: "1 Jan 2024",
+        date: "6 Jun 2024",
         count: 0
     },{
-        date: "1 Jan 2024",
-        count: 0
+        date: "7 Jun 2024",
+        count: 4
     },{
-        date: "1 Jan 2024",
-        count: 0
-    },{
-        date: "1 Jan 2024",
+        date: "8 Jun 2024",
         count: 0
     },{
         date: "1 Jan 2024",
