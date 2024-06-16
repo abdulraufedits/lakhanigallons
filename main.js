@@ -433,7 +433,7 @@ const junData = [
         count: 4
     },{
         date: "16 Jun 2024",
-        count: 0
+        count: 3
     },{
         date: "17 Jun 2024",
         count: 0
