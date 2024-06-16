@@ -386,7 +386,7 @@ const mayData = [
 ]
 const junData = [
     {
-        date: "1 June 2024",
+        date: "1 Jun 2024",
         count: 0
     },
     {
@@ -430,21 +430,21 @@ const junData = [
         count: 0
     },{
         date: "15 Jun 2024",
+        count: 4
+    },{
+        date: "16 Jun 2024",
         count: 0
     },{
-        date: "1 Jan 2024",
+        date: "17 Jun 2024",
         count: 0
     },{
-        date: "1 Jan 2024",
+        date: "18 Jun 2024",
         count: 0
     },{
-        date: "1 Jan 2024",
+        date: "19 Jun 2024",
         count: 0
     },{
-        date: "1 Jan 2024",
-        count: 0
-    },{
-        date: "1 Jan 2024",
+        date: "20 Jun 2024",
         count: 0
     },{
         date: "1 Jan 2024",
