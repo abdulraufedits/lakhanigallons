@@ -494,21 +494,21 @@ const julData = [
         count: 0
     },{
         date: "5 Jul 2024",
-        count: 0
+        count: 4
     },{
         date: "6 Jul 2024",
         count: 0
     },{
-        date: "1 Jan 2024",
+        date: "7 Jul 2024",
         count: 0
     },{
-        date: "1 Jan 2024",
+        date: "8 Jul 2024",
         count: 0
     },{
-        date: "1 Jan 2024",
+        date: "9 Jul 2024",
         count: 0
     },{
-        date: "1 Jan 2024",
+        date: "10 Jul 2024",
         count: 0
     },{
         date: "1 Jan 2024",
