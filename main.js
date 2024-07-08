@@ -511,31 +511,31 @@ const julData = [
         date: "10 Jul 2024",
         count: 0
     },{
-        date: "1 Jan 2024",
+        date: "11 Jul 2024",
         count: 0
     },{
-        date: "1 Jan 2024",
+        date: "12 Jul 2024",
         count: 0
     },{
-        date: "1 Jan 2024",
+        date: "13 Jul 2024",
         count: 0
     },{
-        date: "1 Jan 2024",
+        date: "14 Jul 2024",
         count: 0
     },{
-        date: "1 Jan 2024",
+        date: "15 Jul 2024",
         count: 0
     },{
-        date: "1 Jan 2024",
+        date: "16 Jul 2024",
         count: 0
     },{
-        date: "1 Jan 2024",
+        date: "17 Jul 2024",
         count: 0
     },{
-        date: "1 Jan 2024",
+        date: "18 Jul 2024",
         count: 0
     },{
-        date: "1 Jan 2024",
+        date: "19 Jul 2024",
         count: 0
     },{
         date: "1 Jan 2024",
