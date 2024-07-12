@@ -506,7 +506,7 @@ const julData = [
         count: 0
     },{
         date: "9 Jul 2024",
-        count: 0
+        count: 4
     },{
         date: "10 Jul 2024",
         count: 0
@@ -515,7 +515,7 @@ const julData = [
         count: 0
     },{
         date: "12 Jul 2024",
-        count: 0
+        count: 4
     },{
         date: "13 Jul 2024",
         count: 0
@@ -538,16 +538,28 @@ const julData = [
         date: "19 Jul 2024",
         count: 0
     },{
-        date: "1 Jan 2024",
+        date: "20 Jul 2024",
         count: 0
     },{
-        date: "1 Jan 2024",
+        date: "21 Jul 2024",
         count: 0
     },{
-        date: "1 Jan 2024",
+        date: "22 Jul 2024",
         count: 0
     },{
-        date: "1 Jan 2024",
+        date: "23 Jul 2024",
+        count: 0
+    },{
+        date: "24 Jul 2024",
+        count: 0
+    },{
+        date: "25 Jul 2024",
+        count: 0
+    },{
+        date: "26 Jul 2024",
+        count: 0
+    },{
+        date: "27 Jul 2024",
         count: 0
     },
 ]
