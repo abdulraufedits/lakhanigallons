@@ -527,7 +527,7 @@ const julData = [
         count: 0
     },{
         date: "16 Jul 2024",
-        count: 0
+        count: 4
     },{
         date: "17 Jul 2024",
         count: 0
