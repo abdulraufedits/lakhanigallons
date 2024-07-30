@@ -561,7 +561,16 @@ const julData = [
     },{
         date: "27 Jul 2024",
         count: 0
-    },
+    },{
+        date: "28 Jul 2024",
+        count: 0
+   },{
+        date: "29 Jul 2024",
+        count: 0
+   },{
+        date: "30 Jul 2024",
+        count: 5
+   }
 ]
 const augData = [
     {
