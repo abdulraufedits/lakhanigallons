@@ -574,35 +574,35 @@ const julData = [
 ]
 const augData = [
     {
-        date: "1 Jan 2024",
+        date: "1 Aug 2024",
         count: 0
     },
     {
-        date: "1 Jan 2024",
+        date: "2 Aug 2024",
+        count: 5
+    },{
+        date: "3 Aug 2024",
         count: 0
     },{
-        date: "1 Jan 2024",
+        date: "4 Aug 2024",
         count: 0
     },{
-        date: "1 Jan 2024",
+        date: "5 Aug 2024",
         count: 0
     },{
-        date: "1 Jan 2024",
+        date: "6 Aug 2024",
+        count: 5
+    },{
+        date: "7 Aug 2024",
         count: 0
     },{
-        date: "1 Jan 2024",
+        date: "8 Aug 2024",
         count: 0
     },{
-        date: "1 Jan 2024",
+        date: "9 Aug 2024",
         count: 0
     },{
-        date: "1 Jan 2024",
-        count: 0
-    },{
-        date: "1 Jan 2024",
-        count: 0
-    },{
-        date: "1 Jan 2024",
+        date: "10 Aug 2024",
         count: 0
     },{
         date: "1 Jan 2024",
