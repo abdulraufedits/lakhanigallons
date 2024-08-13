@@ -605,45 +605,18 @@ const augData = [
         date: "10 Aug 2024",
         count: 0
     },{
-        date: "1 Jan 2024",
+        date: "11 Aug 2024",
         count: 0
     },{
-        date: "1 Jan 2024",
+        date: "12 Aug 2024",
         count: 0
     },{
-        date: "1 Jan 2024",
-        count: 0
+        date: "13 Aug 2024",
+        count: 4
     },{
-        date: "1 Jan 2024",
+        date: "14 Aug 2024",
         count: 0
-    },{
-        date: "1 Jan 2024",
-        count: 0
-    },{
-        date: "1 Jan 2024",
-        count: 0
-    },{
-        date: "1 Jan 2024",
-        count: 0
-    },{
-        date: "1 Jan 2024",
-        count: 0
-    },{
-        date: "1 Jan 2024",
-        count: 0
-    },{
-        date: "1 Jan 2024",
-        count: 0
-    },{
-        date: "1 Jan 2024",
-        count: 0
-    },{
-        date: "1 Jan 2024",
-        count: 0
-    },{
-        date: "1 Jan 2024",
-        count: 0
-    },
+    }
 ]
 const sepData = [
     {
