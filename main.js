@@ -616,7 +616,15 @@ const augData = [
     },{
         date: "14 Aug 2024",
         count: 0
-    }
+    },{
+        date: "15 Aug 2024",
+        count: 0
+    },{
+        date: "16 Aug 2024",
+        count: 4
+    },{
+        date: "17 Aug 2024",
+        count: 0
 ]
 const sepData = [
     {
