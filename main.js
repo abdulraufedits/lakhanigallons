@@ -668,74 +668,41 @@ const augData = [
 ]
 const sepData = [
     {
-        date: "1 Jan 2024",
+        date: "1 Sep 2024",
         count: 0
     },
     {
-        date: "1 Jan 2024",
+        date: "2 Sep 2024",
         count: 0
     },{
-        date: "1 Jan 2024",
+        date: "3 Sep 2024",
+        count: 4
+    },{
+        date: "4 Sep 2024",
         count: 0
     },{
-        date: "1 Jan 2024",
+        date: "5 Sep 2024",
         count: 0
     },{
-        date: "1 Jan 2024",
+        date: "6 Sep 2024",
+        count: 3
+    },{
+        date: "7 Sep 2024",
         count: 0
     },{
-        date: "1 Jan 2024",
+        date: "8 Sep 2024",
+        count: 0
+    },}
+        date: "9 Sep 2024",
         count: 0
     },{
-        date: "1 Jan 2024",
+        date: "10 Sep 2024",
         count: 0
     },{
-        date: "1 Jan 2024",
+        date: "11 Sep 2024",
         count: 0
     },{
-        date: "1 Jan 2024",
-        count: 0
-    },{
-        date: "1 Jan 2024",
-        count: 0
-    },{
-        date: "1 Jan 2024",
-        count: 0
-    },{
-        date: "1 Jan 2024",
-        count: 0
-    },{
-        date: "1 Jan 2024",
-        count: 0
-    },{
-        date: "1 Jan 2024",
-        count: 0
-    },{
-        date: "1 Jan 2024",
-        count: 0
-    },{
-        date: "1 Jan 2024",
-        count: 0
-    },{
-        date: "1 Jan 2024",
-        count: 0
-    },{
-        date: "1 Jan 2024",
-        count: 0
-    },{
-        date: "1 Jan 2024",
-        count: 0
-    },{
-        date: "1 Jan 2024",
-        count: 0
-    },{
-        date: "1 Jan 2024",
-        count: 0
-    },{
-        date: "1 Jan 2024",
-        count: 0
-    },{
-        date: "1 Jan 2024",
+        date: "12 Sep 2024",
         count: 0
     },
 ]
