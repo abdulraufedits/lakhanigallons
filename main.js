@@ -697,14 +697,53 @@ const sepData = [
         count: 0
     },{
         date: "10 Sep 2024",
-        count: 0
+        count: 3
     },{
         date: "11 Sep 2024",
         count: 0
     },{
         date: "12 Sep 2024",
         count: 0
-    },
+    },{
+        date: "13 Sep 2024",
+        count: 3
+    },{
+        date: "14 Sep 2024",
+        count: 0
+    },{
+        date: "15 Sep 2024",
+        count: 0
+    },{
+        date: "16 Sep 2024",
+        count: 0
+    },{
+        date: "17 Sep 2024",
+        count: 3
+    },{
+        date: "18 Sep 2024",
+        count: 0
+    },{
+        date: "19 Sep 2024",
+        count: 0
+    },{
+        date: "20 Sep 2024",
+        count: 0
+    },{
+        date: "21 Sep 2024",
+        count: 0
+    },{
+        date: "22 Sep 2024",
+        count: 0
+    },{
+        date: "23 Sep 2024",
+        count: 0
+    },{
+        date: "24 Sep 2024",
+        count: 0
+    },{
+        date: "25 Sep 2024",
+        count: 0
+    }
 ]
 const octData = [
     {
