@@ -727,7 +727,7 @@ const sepData = [
         count: 0
     },{
         date: "20 Sep 2024",
-        count: 0
+        count: 3
     },{
         date: "21 Sep 2024",
         count: 0
@@ -739,11 +739,20 @@ const sepData = [
         count: 0
     },{
         date: "24 Sep 2024",
-        count: 0
+        count: 3
     },{
         date: "25 Sep 2024",
         count: 0
-    }
+    },{
+        date: "26 Sep 2024",
+        count: 0
+},{
+        date: "27 Sep 2024",
+        count: 0
+},{
+        date: "28 Sep 2024",
+        count: 0
+}
 ]
 const octData = [
     {
