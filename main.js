@@ -692,7 +692,7 @@ const sepData = [
     },{
         date: "8 Sep 2024",
         count: 0
-    },}
+    },{
         date: "9 Sep 2024",
         count: 0
     },{
